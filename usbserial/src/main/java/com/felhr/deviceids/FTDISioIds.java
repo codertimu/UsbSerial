@@ -555,6 +555,7 @@ public class FTDISioIds
                     new ConcreteDevice(0x05d1, 0x9006),
                     new ConcreteDevice(0x05d1, 0x9007),
                     new ConcreteDevice(0x05d1, 0x9008),
+                    new ConcreteDevice(0x1519, 0x0020),
             };
 
     public static boolean isDeviceSupported(int vendorId, int productId)
